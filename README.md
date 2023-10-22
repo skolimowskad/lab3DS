@@ -1,4 +1,5 @@
-# lab3DS
+# lab3 Dominika Skolimowska
+
 Plik YAML definijue poda sidecar-pod w przestrzeni nazw lab3.
 Pod zawiera dwa kontenery: busybox-container i nginx-container.
 Pierwszy z nich uzywa obrazu busybox. Co 5 sekund zapisuje biezaca date do wskazanego pliku.
